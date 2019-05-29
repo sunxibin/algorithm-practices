@@ -13,6 +13,10 @@ public class OddTest {
 //        modTest(-5);
 //        modTest(-6);
 //        modTest(-7);
+
+        System.out.println(isOdd(0));
+        System.out.println(isOdd(-1));
+        System.out.println(isOdd(-2));
     }
 
     /**
