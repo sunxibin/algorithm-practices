@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a6bc25a-4cbb-4418-9433-4419f3173720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/OddTest.java" afterDir="false" />
+    <list default="true" id="0a6bc25a-4cbb-4418-9433-4419f3173720" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Stack.java">
+      <file leaf-file-name="number01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+            <state relative-caret-position="527">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -81,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OddTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/OddTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="228">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#272#273#0" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
@@ -125,24 +135,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractCollection.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/AbstractCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,6 +144,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sp</find>
+      <find>sqrt</find>
+      <find>abs</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -159,11 +158,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/database/exercise_01.sql" />
-        <option value="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" />
         <option value="$PROJECT_DIR$/src/handle/SeekChinese.java" />
         <option value="$PROJECT_DIR$/src/file/handle/SeekChinese.java" />
         <option value="$PROJECT_DIR$/src/test/CompareTest.java" />
         <option value="$PROJECT_DIR$/src/test/OddTest.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java" />
       </list>
     </option>
   </component>
@@ -185,10 +185,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-325" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,36 +206,6 @@
               <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="mathematics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-practices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-practices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Sta&#9;PSI&#9;JAVA://java.util.Stack" />
+    <property name="SearchEverywhereHistoryKey" value="Resour&#9;PSI&#9;JAVA://sun.misc.Resource&#10;Sta&#9;PSI&#9;JAVA://java.util.Stack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555078171225" />
@@ -273,7 +243,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Gen">
+    <configuration name="Gen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.mathematics.math.Gen" />
+      <module name="algorithm-practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.mathematics.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="OddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.OddTest" />
       <module name="algorithm-practices" />
@@ -326,8 +307,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.OddTest" />
+      <item itemvalue="Application.Gen" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gen" />
         <item itemvalue="Application.OddTest" />
       </list>
     </recent_temporary>
@@ -344,16 +330,30 @@
       <updated>1555075300960</updated>
       <workItem from="1555075305010" duration="2699000" />
       <workItem from="1559015150947" duration="566000" />
-      <workItem from="1559015787260" duration="5690000" />
+      <workItem from="1559015787260" duration="14465000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1559104637594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559104637594</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1559104841479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559104841479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8955000" />
+    <option name="totallyTimeSpent" value="17730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-325" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -364,12 +364,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34380165" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2228145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -391,6 +391,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java">
@@ -450,13 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -545,12 +542,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/OddTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="228">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#272#273#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3484">
+          <caret line="1198" column="23" selection-start-line="1198" selection-start-column="23" selection-end-line="1198" selection-end-column="23" />
+          <folding>
+            <element signature="e#46871#46872#0" expanded="true" />
+            <element signature="e#46910#46911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>

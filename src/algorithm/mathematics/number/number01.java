@@ -32,4 +32,12 @@ public class number01 {
         }
         return ret;
     }
+
+    /**
+     * 判断一个数是否奇数
+     */
+    public static boolean isOdd(int i) {
+        return (i & 1) == 1;
+//        return i >> 1 << 1 != i;
+    }
 }
