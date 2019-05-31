@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a6bc25a-4cbb-4418-9433-4419f3173720" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/mathematics/number/number01.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a6bc25a-4cbb-4418-9433-4419f3173720" name="Default Changelist" comment="." />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,8 +72,8 @@
       <file leaf-file-name="Gen.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            <state relative-caret-position="223">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -330,7 +326,7 @@
       <updated>1555075300960</updated>
       <workItem from="1555075305010" duration="2699000" />
       <workItem from="1559015150947" duration="566000" />
-      <workItem from="1559015787260" duration="14465000" />
+      <workItem from="1559015787260" duration="15079000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1559104637594</created>
@@ -346,14 +342,22 @@
       <option name="project" value="LOCAL" />
       <updated>1559104841479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1559202853227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559202853227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17730000" />
+    <option name="totallyTimeSpent" value="18344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -588,8 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/mathematics/math/Gen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="223">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
