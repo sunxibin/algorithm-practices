@@ -23,6 +23,7 @@ public class HeapSortDemo {
         //1.构建大顶堆
         for (int i = arr.length / 2 - 1; i >= 0; i--) {
             //从最后一个非叶子节点从下至上，从右至左调整结构
+            adjustHeap(arr, i, arr.length);
         }
         //调整堆结构+交换堆顶元素与末尾元素
         for (int j = arr.length - 1; j > 0; j--) {
